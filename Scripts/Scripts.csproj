@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{4FB744C4-8690-487B-876C-F6C0FFE82A82}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>IngameScript</RootNamespace>
-    <AssemblyName>IngameScript1</AssemblyName>
+    <RootNamespace>Scripts</RootNamespace>
+    <AssemblyName>Scripts</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

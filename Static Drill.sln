@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scripts", "IngameScript1\Scripts.csproj", "{4FB744C4-8690-487B-876C-F6C0FFE82A82}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scripts", "Scripts\Scripts.csproj", "{4FB744C4-8690-487B-876C-F6C0FFE82A82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
